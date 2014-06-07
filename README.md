@@ -1,3 +1,11 @@
+## Notes
+
+* the scripts require the package '<b>sqldf</b>'
+
+* png file created have a <b>transparent</b> background, just like the ones committed by RDPeng in the folder 'figures'.
+
+
+
 ## Introduction
 
 This assignment uses data from
